@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SlutOpgaveApp1</string>
+
+    <string-array name="Colors">
+        <item>#5cfd33</item>
+        <item>#faf72b</item>
+        <item>#7203f8</item>
+        <item>#b44dfd</item>
+        <item>#f45b19</item>
+        <item>#18aab8</item>
+        <item>#3ff7d4</item>
+        <item>#eb7ade</item>
+        <item>#b6292d</item>
+    </string-array>
+
+</resources>
